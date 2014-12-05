@@ -12,7 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require underscore
 //= require jquery.turbolinks
 //= require turbolinks
-//= require faye
 //= require comments
